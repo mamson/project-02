@@ -1,0 +1,19 @@
+<svg width="30" height="6" viewBox="0 0 30 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="6" fill="#E5E5E5"/>
+<g id="Education Platform Website - Lesson" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="5109" transform="translate(-705 -4579)" fill="white"/>
+<g id="Blog">
+<rect id="BG" width="1440" height="878" transform="matrix(1 0 0 -1 -705 102)" fill="#FFFCF4"/>
+<g id="Dot">
+<circle id="Ellipse 2650" cx="3" cy="3" r="3" fill="#5F5B53"/>
+<circle id="Ellipse 2651" cx="15" cy="3" r="3" fill="#FFB900"/>
+<circle id="Ellipse 2652" cx="27" cy="3" r="3" fill="#5F5B53"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="5109" fill="white" transform="translate(-705 -4579)"/>
+</clipPath>
+</defs>
+</svg>
